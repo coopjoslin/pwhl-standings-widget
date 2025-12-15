@@ -28,7 +28,7 @@ export function render({ output, error }) {
             <div style={styles.rank}>{team.rank}</div>
             <div style={styles.logoContainer}>
               <img
-                src={`https://github.com/coopjoslin/pwhl-standings-widget/tree/main/imgs/${team.team}.png`}
+                src={`https://raw.githubusercontent.com/coopjoslin/pwhl-standings-widget/refs/heads/main/imgs/${team.team}.png`}
                 alt={team.name}
                 style={styles.logo}
               />
