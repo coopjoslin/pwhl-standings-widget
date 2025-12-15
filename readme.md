@@ -5,7 +5,7 @@
 ## Requirements
 
 - macOS
-- Übersicht
+- Übersicht https://tracesof.net/uebersicht/
 - Node.js 18+
 - Puppeteer
 
